@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 # Path to your Excel file
-file_path = r"C:\Users\U GEYA MALINI\Downloads\shopping_trends_updated_copy.xlsx"
+file_path = r"/content/shopping_trends_large.csv"
 print(f"File path: {file_path}")
 
 # Read the Excel file
@@ -80,7 +80,5 @@ print(age_group_purchases)
 age_group_purchases.plot(kind='bar', title='Frequency of Purchases by Age Group')
 plt.ylabel('Number of Purchases')
 plt.show()
-
-
 
 
