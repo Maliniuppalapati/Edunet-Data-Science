@@ -9,7 +9,7 @@ file_path = r"C:\Users\U GEYA MALINI\Downloads\shopping_trends_updated_copy.xlsx
 print(f"File path: {file_path}")
 
 # Read the Excel file
-shop = pd.read_excel(file_path)
+shop = pd.read_csv(file_path)
 
 # Display basic information
 print(shop.head())
@@ -80,6 +80,7 @@ print(age_group_purchases)
 age_group_purchases.plot(kind='bar', title='Frequency of Purchases by Age Group')
 plt.ylabel('Number of Purchases')
 plt.show()
+
 
 
 
