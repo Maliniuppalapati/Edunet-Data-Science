@@ -1,0 +1,101 @@
+CustomerID,Age,Gender,Category,Item,Purchase Amount,Purchase Date,Rating,Subscription Status,Payment Method,Promo Code Used
+1,70,Male,Toys,Doll,483.88,2024-12-13,4.1,Subscribed,Cash,No
+2,58,Male,Books,Notebook,1215.81,2025-01-08,4.6,Subscribed,Cash,No
+3,37,Female,Books,Magazine,664.05,2024-12-29,3.5,Non-Subscribed,Cash,No
+4,43,Male,Clothing,Jeans,1013.83,2025-01-21,3.6,Non-Subscribed,Cash,No
+5,69,Female,Clothing,Jeans,513.09,2024-12-24,4.7,Non-Subscribed,Cash,No
+6,46,Male,Books,Comics,1336.0,2024-12-09,4.8,Subscribed,Cash,No
+7,58,Male,Books,Notebook,1315.94,2024-12-02,4.2,Subscribed,Credit Card,Yes
+8,68,Female,Clothing,Shoes,757.38,2025-01-20,3.7,Non-Subscribed,Debit Card,Yes
+9,61,Male,Clothing,Shoes,545.73,2024-12-24,5.0,Non-Subscribed,Debit Card,Yes
+10,21,Male,Toys,Puzzle,233.63,2024-12-28,4.6,Subscribed,Cash,No
+11,66,Male,Books,Dictionary,620.83,2025-01-16,3.7,Subscribed,Credit Card,Yes
+12,47,Male,Groceries,Eggs,321.16,2024-12-14,4.4,Non-Subscribed,Debit Card,Yes
+13,25,Male,Electronics,Tablet,266.09,2024-12-11,4.1,Non-Subscribed,Debit Card,No
+14,62,Male,Groceries,Cheese,1268.72,2025-01-15,4.6,Non-Subscribed,UPI,No
+15,20,Female,Electronics,Smartphone,367.26,2024-12-28,4.1,Non-Subscribed,UPI,No
+16,30,Female,Electronics,Tablet,653.92,2025-01-05,4.7,Non-Subscribed,Cash,Yes
+17,43,Female,Toys,Puzzle,1439.48,2025-01-05,4.8,Non-Subscribed,Credit Card,No
+18,47,Male,Groceries,Cheese,879.23,2024-12-29,4.5,Non-Subscribed,Credit Card,Yes
+19,50,Female,Electronics,Headphones,279.7,2024-12-21,4.3,Non-Subscribed,UPI,No
+20,53,Male,Toys,Board Game,605.16,2025-01-15,4.2,Subscribed,UPI,No
+21,67,Male,Toys,LEGO,605.15,2025-01-28,4.0,Subscribed,Debit Card,Yes
+22,39,Female,Groceries,Cheese,1006.53,2024-12-14,3.8,Non-Subscribed,Debit Card,No
+23,57,Male,Groceries,Milk,1477.21,2025-01-24,4.5,Non-Subscribed,UPI,No
+24,35,Female,Clothing,Shoes,1239.22,2025-01-18,4.9,Non-Subscribed,Credit Card,No
+25,18,Female,Books,Novel,1383.35,2024-12-22,3.6,Non-Subscribed,UPI,Yes
+26,53,Female,Groceries,Cheese,293.45,2024-12-20,4.6,Subscribed,Credit Card,No
+27,36,Male,Toys,Doll,381.88,2025-01-07,4.0,Non-Subscribed,Cash,Yes
+28,35,Female,Toys,Puzzle,1093.86,2025-01-10,3.7,Non-Subscribed,Credit Card,Yes
+29,38,Male,Groceries,Butter,1069.29,2025-01-19,4.3,Subscribed,Cash,Yes
+30,20,Female,Clothing,Dress,1499.02,2025-01-14,3.9,Subscribed,Credit Card,Yes
+31,48,Female,Books,Magazine,1028.21,2024-12-08,4.7,Non-Subscribed,Cash,No
+32,57,Female,Books,Magazine,830.72,2024-12-03,4.5,Non-Subscribed,Debit Card,No
+33,23,Female,Toys,Puzzle,1244.18,2024-12-18,3.5,Subscribed,Debit Card,No
+34,31,Female,Groceries,Eggs,63.06,2024-12-12,3.9,Non-Subscribed,Cash,Yes
+35,59,Male,Books,Notebook,867.62,2025-01-13,3.6,Subscribed,UPI,Yes
+36,53,Male,Books,Notebook,260.07,2025-01-29,4.5,Subscribed,Debit Card,Yes
+37,58,Male,Groceries,Butter,728.44,2024-12-22,3.7,Non-Subscribed,Cash,Yes
+38,68,Female,Books,Novel,495.5,2025-01-09,4.2,Non-Subscribed,Debit Card,No
+39,49,Male,Toys,Board Game,165.72,2024-12-21,4.4,Non-Subscribed,Credit Card,No
+40,51,Female,Electronics,Headphones,671.11,2024-12-21,4.6,Non-Subscribed,UPI,Yes
+41,64,Female,Groceries,Butter,1078.86,2024-12-13,4.3,Non-Subscribed,Credit Card,Yes
+42,30,Female,Electronics,Headphones,1148.79,2024-12-04,4.2,Non-Subscribed,Cash,Yes
+43,42,Female,Electronics,Smartphone,635.48,2024-12-11,4.1,Non-Subscribed,Credit Card,No
+44,65,Male,Clothing,Shoes,358.01,2025-01-18,4.1,Subscribed,Cash,Yes
+45,56,Male,Books,Novel,987.64,2025-01-20,4.6,Non-Subscribed,UPI,Yes
+46,41,Female,Groceries,Cheese,577.2,2024-12-02,3.8,Non-Subscribed,UPI,Yes
+47,53,Female,Electronics,Tablet,646.94,2024-12-14,4.4,Non-Subscribed,UPI,Yes
+48,38,Female,Electronics,Smartphone,1039.07,2025-01-21,3.6,Non-Subscribed,Credit Card,Yes
+49,44,Male,Toys,Action Figure,1234.51,2025-01-28,3.9,Non-Subscribed,Cash,No
+50,58,Female,Clothing,Jeans,627.88,2024-12-24,4.6,Subscribed,UPI,No
+51,57,Female,Clothing,Jeans,493.19,2025-01-30,4.1,Subscribed,UPI,No
+52,36,Female,Electronics,Camera,1328.81,2025-01-25,4.4,Subscribed,Credit Card,No
+53,23,Male,Toys,Doll,167.52,2025-01-29,3.6,Subscribed,Cash,No
+54,40,Female,Clothing,Dress,506.23,2024-12-24,4.9,Subscribed,Debit Card,No
+55,56,Female,Books,Comics,217.71,2024-12-03,3.9,Non-Subscribed,Debit Card,Yes
+56,67,Female,Toys,Board Game,1248.34,2025-01-06,3.6,Subscribed,Credit Card,Yes
+57,69,Male,Groceries,Eggs,1302.21,2024-12-01,4.9,Subscribed,Credit Card,Yes
+58,41,Male,Books,Comics,1034.12,2025-01-06,4.2,Subscribed,UPI,No
+59,25,Female,Toys,LEGO,491.73,2024-12-30,4.5,Subscribed,Cash,Yes
+60,20,Female,Toys,LEGO,142.5,2025-01-07,3.9,Subscribed,Credit Card,No
+61,36,Female,Clothing,T-Shirt,1079.22,2024-12-14,4.1,Non-Subscribed,Debit Card,Yes
+62,66,Female,Books,Dictionary,857.82,2025-01-13,4.4,Non-Subscribed,Debit Card,No
+63,40,Male,Books,Notebook,468.3,2025-01-16,4.6,Subscribed,Cash,No
+64,65,Male,Clothing,Jeans,73.81,2025-01-17,4.7,Subscribed,Debit Card,No
+65,29,Male,Electronics,Tablet,1173.2,2025-01-31,4.7,Non-Subscribed,Cash,No
+66,70,Male,Electronics,Camera,284.73,2025-01-16,4.9,Subscribed,Credit Card,Yes
+67,63,Female,Groceries,Butter,992.7,2024-12-05,4.4,Non-Subscribed,UPI,Yes
+68,61,Female,Books,Novel,635.21,2025-01-16,4.9,Subscribed,Cash,No
+69,31,Male,Books,Magazine,1307.81,2025-01-23,3.9,Subscribed,Credit Card,No
+70,49,Female,Groceries,Bread,1059.23,2025-01-09,3.7,Subscribed,Credit Card,No
+71,70,Male,Books,Novel,718.8,2025-01-18,5.0,Subscribed,Cash,Yes
+72,23,Female,Electronics,Headphones,983.54,2024-12-05,4.8,Non-Subscribed,Credit Card,Yes
+73,40,Female,Electronics,Laptop,190.01,2024-12-31,3.5,Non-Subscribed,Cash,No
+74,50,Female,Clothing,Shoes,540.77,2025-01-15,4.5,Subscribed,Credit Card,Yes
+75,54,Male,Groceries,Bread,10.97,2024-12-27,4.4,Subscribed,Credit Card,Yes
+76,36,Male,Toys,Puzzle,441.76,2024-12-11,3.5,Subscribed,Debit Card,No
+77,37,Female,Electronics,Headphones,316.79,2025-01-12,4.6,Subscribed,Debit Card,Yes
+78,23,Female,Groceries,Cheese,969.89,2025-01-07,4.6,Subscribed,Debit Card,Yes
+79,25,Male,Groceries,Eggs,575.95,2024-12-31,4.2,Subscribed,Cash,No
+80,70,Male,Electronics,Smartphone,1256.82,2024-12-15,4.4,Subscribed,UPI,No
+81,55,Male,Toys,Puzzle,1230.45,2024-12-20,3.5,Subscribed,UPI,Yes
+82,47,Male,Books,Magazine,1277.95,2024-12-06,4.6,Non-Subscribed,Debit Card,Yes
+83,19,Female,Clothing,Dress,1123.92,2024-12-10,4.6,Subscribed,Credit Card,Yes
+84,31,Male,Clothing,Jacket,942.41,2025-01-05,3.9,Non-Subscribed,Credit Card,Yes
+85,21,Male,Toys,Board Game,1199.43,2025-01-30,4.0,Non-Subscribed,Cash,Yes
+86,51,Female,Clothing,Jacket,709.68,2025-01-24,4.2,Subscribed,UPI,No
+87,61,Male,Books,Notebook,1058.48,2025-01-07,4.1,Non-Subscribed,UPI,No
+88,69,Female,Books,Dictionary,24.77,2024-12-07,3.9,Subscribed,UPI,Yes
+89,25,Female,Toys,Board Game,1187.38,2025-01-27,4.5,Non-Subscribed,UPI,No
+90,22,Male,Groceries,Bread,333.58,2024-12-24,4.7,Subscribed,Debit Card,No
+91,31,Male,Groceries,Milk,779.73,2024-12-14,3.6,Non-Subscribed,Credit Card,Yes
+92,66,Female,Groceries,Eggs,119.92,2024-12-30,4.3,Non-Subscribed,Cash,Yes
+93,62,Male,Books,Dictionary,139.29,2024-12-30,4.2,Non-Subscribed,UPI,No
+94,33,Male,Books,Comics,224.74,2025-01-02,3.6,Non-Subscribed,UPI,No
+95,68,Male,Books,Comics,1484.69,2025-01-09,4.4,Subscribed,UPI,No
+96,39,Female,Toys,LEGO,242.03,2024-12-04,4.6,Subscribed,Debit Card,No
+97,28,Female,Books,Dictionary,746.27,2025-01-31,3.9,Subscribed,Cash,Yes
+98,39,Female,Books,Comics,217.53,2024-12-07,4.7,Non-Subscribed,Credit Card,No
+99,62,Male,Books,Magazine,191.7,2025-01-25,3.5,Subscribed,Debit Card,No
+100,50,Male,Groceries,Butter,766.23,2024-12-28,4.4,Non-Subscribed,Credit Card,Yes
